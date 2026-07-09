@@ -1,0 +1,5 @@
+b=input("enter your name")
+print("my name is :",b )
+x=input("enter 1st input")
+y=input("enter 2nd input")
+print(x+y)
